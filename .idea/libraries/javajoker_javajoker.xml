@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="javajoker.javajoker">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/javajoker/build/libs/javajoker.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

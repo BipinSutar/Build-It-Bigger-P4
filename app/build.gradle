@@ -1,0 +1,67 @@
+apply plugin: 'com.android.application'
+
+android {
+
+    configurations.all {
+        resolutionStrategy.force 'com.android.support:support-annotations:23.2.0'
+    }
+
+    compileSdkVersion 23
+    buildToolsVersion "23.0.3"
+
+
+
+    defaultConfig {
+        applicationId "app.bipin.com.builditbigger"
+        minSdkVersion 15
+        targetSdkVersion 23
+        versionCode 1
+        versionName "1.0"
+        multiDexEnabled true
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+
+    }
+    buildTypes {
+        debug {
+            debuggable true
+        }
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+
+    }
+    productFlavors {
+        free {
+            applicationId "app.bipin.com.builditbigger.free"
+            versionName "1.0-free"
+        }
+
+        paid {
+            applicationId "app.bipin.com.builditbigger.paid"
+            versionName "1.0-paid"
+        }
+    }
+}
+
+
+
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    // Added for AdMob
+    compile project(":javajoker")
+    compile project(":jokefactory")
+    compile project(path: ':Jokebackend', configuration: 'android-endpoints')
+
+    androidTestCompile 'junit:junit:4.12'
+    androidTestCompile 'com.android.support.test:runner:0.4.1'
+    androidTestCompile 'com.android.support.test:rules:0.4.1'
+    androidTestCompile 'com.android.support:support-annotations:23.2.0'
+    androidTestCompile 'org.hamcrest:hamcrest-core:1.3'
+
+    compile 'com.android.support:appcompat-v7:23.4.0'
+    compile 'com.google.android.gms:play-services:9.8.0'
+    compile 'com.android.support:support-v4:23.4.0'
+    freeCompile 'com.google.android.gms:play-services-ads:8.4.0'
+}
