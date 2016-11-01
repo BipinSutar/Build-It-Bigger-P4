@@ -11,20 +11,47 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="160d0bcb-cdff-4a6e-ac58-f9a7dbd4bb7b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jokebackend/build/discovery-docs/myApi-v1-rest.discovery" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jokebackend/build/discovery-docs/myApi-v1-rpc.discovery" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jokebackend/build/exploded-app/META-INF/MANIFEST.MF" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jokebackend/build/exploded-app/WEB-INF/appengine-web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jokebackend/build/exploded-app/WEB-INF/classes/com/example/BipinSutar/buildItBigger/backend/MyBean.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jokebackend/build/exploded-app/WEB-INF/classes/com/example/BipinSutar/buildItBigger/backend/MyEndpoint.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jokebackend/build/exploded-app/WEB-INF/lib/appengine-api-1.0-sdk-1.9.28.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jokebackend/build/exploded-app/WEB-INF/lib/appengine-endpoints-1.9.28.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jokebackend/build/exploded-app/WEB-INF/lib/appengine-endpoints-deps-1.9.28.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jokebackend/build/exploded-app/WEB-INF/lib/javajoker.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jokebackend/build/exploded-app/WEB-INF/lib/servlet-api-2.5.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jokebackend/build/exploded-app/WEB-INF/logging.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jokebackend/build/exploded-app/WEB-INF/myApi-v1-rest.discovery" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jokebackend/build/exploded-app/WEB-INF/myApi-v1-rpc.discovery" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jokebackend/build/exploded-app/WEB-INF/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jokebackend/build/exploded-app/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jokebackend/build/libs/Jokebackend.war" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jokebackend/build/tmp/war/MANIFEST.MF" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/cache.properties.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/fileSnapshots.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/outputFileStates.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/outputFileStates.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/taskArtifacts.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/tasks/_jokefactory_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_jokefactory_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/tasks/_jokefactory_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_jokefactory_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/tasks/_jokefactory_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_jokefactory_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/tasks/_jokefactory_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_jokefactory_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Jokebackend/build/client-libs/myApi-v1-java.zip" afterPath="$PROJECT_DIR$/Jokebackend/build/client-libs/myApi-v1-java.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Jokebackend/build/libs/Jokebackend-android-endpoints.jar" afterPath="$PROJECT_DIR$/Jokebackend/build/libs/Jokebackend-android-endpoints.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/generated/mockable-android-23.jar" afterPath="$PROJECT_DIR$/build/generated/mockable-android-23.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BuildItBigger.iml" afterPath="$PROJECT_DIR$/BuildItBigger.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build.gradle" afterPath="$PROJECT_DIR$/app/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/app/bipin/com/builditbigger/EndpointAsyncTask.java" afterPath="$PROJECT_DIR$/app/src/main/java/app/bipin/com/builditbigger/EndpointAsyncTask.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jokefactory/jokefactory.iml" afterPath="$PROJECT_DIR$/jokefactory/jokefactory.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Jokebackend/build/generated-source/endpoints/java/com/example/bipinsutar/builditbigger/backend/myApi/MyApi.java" afterPath="$PROJECT_DIR$/Jokebackend/build/generated-source/endpoints/java/com/example/bipinsutar/builditbigger/backend/myApi/MyApi.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Jokebackend/build/generated-source/endpoints/java/com/example/bipinsutar/builditbigger/backend/myApi/MyApiRequest.java" afterPath="$PROJECT_DIR$/Jokebackend/build/generated-source/endpoints/java/com/example/bipinsutar/builditbigger/backend/myApi/MyApiRequest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Jokebackend/build/generated-source/endpoints/java/com/example/bipinsutar/builditbigger/backend/myApi/MyApiRequestInitializer.java" afterPath="$PROJECT_DIR$/Jokebackend/build/generated-source/endpoints/java/com/example/bipinsutar/builditbigger/backend/myApi/MyApiRequestInitializer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Jokebackend/build/generated-source/endpoints/java/com/example/bipinsutar/builditbigger/backend/myApi/MyApiScopes.java" afterPath="$PROJECT_DIR$/Jokebackend/build/generated-source/endpoints/java/com/example/bipinsutar/builditbigger/backend/myApi/MyApiScopes.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Jokebackend/build/generated-source/endpoints/java/com/example/bipinsutar/builditbigger/backend/myApi/model/MyBean.java" afterPath="$PROJECT_DIR$/Jokebackend/build/generated-source/endpoints/java/com/example/bipinsutar/builditbigger/backend/myApi/model/MyBean.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Jokebackend/build/tmp/appengineEndpointsExpandClientLibs/myApi-v1-java.zip-unzipped/myApi/src/main/java/com/example/bipinsutar/builditbigger/backend/myApi/MyApi.java" afterPath="$PROJECT_DIR$/Jokebackend/build/tmp/appengineEndpointsExpandClientLibs/myApi-v1-java.zip-unzipped/myApi/src/main/java/com/example/bipinsutar/builditbigger/backend/myApi/MyApi.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Jokebackend/build/tmp/appengineEndpointsExpandClientLibs/myApi-v1-java.zip-unzipped/myApi/src/main/java/com/example/bipinsutar/builditbigger/backend/myApi/MyApiRequest.java" afterPath="$PROJECT_DIR$/Jokebackend/build/tmp/appengineEndpointsExpandClientLibs/myApi-v1-java.zip-unzipped/myApi/src/main/java/com/example/bipinsutar/builditbigger/backend/myApi/MyApiRequest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Jokebackend/build/tmp/appengineEndpointsExpandClientLibs/myApi-v1-java.zip-unzipped/myApi/src/main/java/com/example/bipinsutar/builditbigger/backend/myApi/MyApiRequestInitializer.java" afterPath="$PROJECT_DIR$/Jokebackend/build/tmp/appengineEndpointsExpandClientLibs/myApi-v1-java.zip-unzipped/myApi/src/main/java/com/example/bipinsutar/builditbigger/backend/myApi/MyApiRequestInitializer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Jokebackend/build/tmp/appengineEndpointsExpandClientLibs/myApi-v1-java.zip-unzipped/myApi/src/main/java/com/example/bipinsutar/builditbigger/backend/myApi/MyApiScopes.java" afterPath="$PROJECT_DIR$/Jokebackend/build/tmp/appengineEndpointsExpandClientLibs/myApi-v1-java.zip-unzipped/myApi/src/main/java/com/example/bipinsutar/builditbigger/backend/myApi/MyApiScopes.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Jokebackend/build/tmp/appengineEndpointsExpandClientLibs/myApi-v1-java.zip-unzipped/myApi/src/main/java/com/example/bipinsutar/builditbigger/backend/myApi/model/MyBean.java" afterPath="$PROJECT_DIR$/Jokebackend/build/tmp/appengineEndpointsExpandClientLibs/myApi-v1-java.zip-unzipped/myApi/src/main/java/com/example/bipinsutar/builditbigger/backend/myApi/model/MyBean.java" />
     </list>
     <ignored path="BuildItBigger.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -5935,7 +5962,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1370" height="735" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -5943,7 +5970,7 @@
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.67071056" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Monitor" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.67071056" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928944" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
